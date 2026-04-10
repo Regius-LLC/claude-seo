@@ -10,7 +10,6 @@ output/
 Thumbs.db
 
 # IDE files
-.vscode/
 .idea/
 *.sublime-*
 
@@ -117,3 +116,7 @@ scripts/generate_setup_guide.py
 
 # Generated site builds
 site/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
